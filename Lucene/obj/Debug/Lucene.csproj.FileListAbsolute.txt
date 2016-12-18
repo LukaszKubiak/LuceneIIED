@@ -1,0 +1,13 @@
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\bin\Debug\Lucene.exe.config
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\bin\Debug\Lucene.exe
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\bin\Debug\Lucene.pdb
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\bin\Debug\Lucene.Net.dll
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\bin\Debug\Lucene.Net.pdb
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\bin\Debug\Lucene.Net.xml
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\obj\Debug\Lucene.csprojResolveAssemblyReference.cache
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\obj\Debug\Lucene.Form1.resources
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\obj\Debug\Lucene.Properties.Resources.resources
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\obj\Debug\Lucene.csproj.GenerateResource.Cache
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\obj\Debug\Lucene.exe
+c:\users\lukasz\documents\visual studio 2015\Projects\Lucene\Lucene\obj\Debug\Lucene.pdb
